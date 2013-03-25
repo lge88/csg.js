@@ -1,0 +1,10 @@
+{
+  "name": "csg.js",
+  "repo": "lge88/csg.js",
+  "description": "csg",
+  "upstream": "git://github.com/evanw/csg.js.git",
+  "scripts": [
+    "csg.js"
+  ],
+  "main": "csg.js"
+}
